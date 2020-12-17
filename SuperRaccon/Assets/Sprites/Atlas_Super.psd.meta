@@ -5,10 +5,11 @@ TextureImporter:
     21300000: BG
     21300002: Btn_Start
     21300004: Fuego
-    21300006: Grua
+    21300006: Super
     21300008: Logo
-    21300010: Super
+    21300010: SuperBad
     21300012: edificios
+    21300014: Grua
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -134,12 +135,12 @@ TextureImporter:
       name: Fuego
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 1846
+        x: 884
+        y: 1665
         width: 365
         height: 185
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.52325606}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,13 +152,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grua
+      name: Super
       rect:
         serializedVersion: 2
-        x: 1464
-        y: 891
-        width: 559
-        height: 911
+        x: 1147
+        y: 1211
+        width: 796
+        height: 372
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,7 +176,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 1118
+        y: 1125
         width: 898
         height: 413
       alignment: 0
@@ -191,13 +192,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super
+      name: SuperBad
       rect:
         serializedVersion: 2
-        x: 958
-        y: 816
-        width: 467
-        height: 770
+        x: 1084
+        y: 848
+        width: 733
+        height: 329
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,6 +227,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cb67364a53e8feb449ac185918a1fd62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grua
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1678
+        width: 589
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228077bd75d6b724c8f82d3e44ddadb0
       vertices: []
       indices: 
       edges: []

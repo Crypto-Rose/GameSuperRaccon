@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Disparador.cs" />
+     <Compile Include="Assets\Scripts\Disparo.cs" />
+     <Compile Include="Assets\Scripts\Enemigo.cs" />
+     <Compile Include="Assets\Scripts\MoverIzq.cs" />
      <Compile Include="Assets\Scripts\MuerteSuper.cs" />
      <Compile Include="Assets\Scripts\VueloSuper.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">

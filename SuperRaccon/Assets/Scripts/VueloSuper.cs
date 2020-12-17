@@ -11,6 +11,7 @@ public class VueloSuper : MonoBehaviour
         if(Input.GetButtonDown("Fire1"))
         {
             GetComponent<Rigidbody2D>().AddForce(FuerzaSalto);
+            GetComponent<AudioSource>().Play();
         }
     }
 }
